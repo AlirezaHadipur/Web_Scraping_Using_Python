@@ -16,3 +16,5 @@ Web scraping is a powerful technique used to extract data from websites. In thes
 
 ## Conclusion
 These projects provided valuable hands-on experience with web scraping techniques using Python. By extracting data from Wikipedia and Amazon, I honed my skills in HTML parsing, data extraction, and automation. Feel free to explore the code and adapt it for your own web scraping tasks.
+=======
+Null
