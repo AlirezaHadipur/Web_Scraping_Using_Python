@@ -5,7 +5,7 @@ This repository contains two Python projects focused on web scraping. The first 
 ## Background 🔦
 Web scraping is a powerful technique used to extract data from websites. In these projects, I utilized **Python** along with libraries such as **BeautifulSoup** and **requests** to gather and parse HTML content from web pages. This technique is also important for **data analysts** to extract useful information from websites.
 
-## Key Learning 📖🔑
+## What I learned 📖
 - **HTML Parsing**: Through these projects, I gained a deeper understanding of how to parse and extract information from HTML pages.
 
 - **XPath and CSS Selectors**: I explored XPath and CSS selectors to target specific elements within the HTML structure.
